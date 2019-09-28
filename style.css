@@ -1,0 +1,23 @@
+.slogan {
+  color:red;
+  
+}
+h1{
+  text-align:center; 
+}
+* {
+  font-family: 'Raleway', sans-serif;
+}
+.backgroundimage {
+  text-align:center;
+  max-width:100%;
+  display:block;
+  margin:0 auto;
+  
+}
+.moi {
+  width:100px;
+  border-radius:50px;
+  float:left;
+  padding-right:20px;
+}
